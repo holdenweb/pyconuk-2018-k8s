@@ -8,7 +8,7 @@ Home instructions
     * ~4 GB of RAM
     * ~15 GB of free disk space
 - Download & install virtualbox: https://www.virtualbox.org/wiki/Downloads
-- Download & unzip our disk image: https://tinyurl.com/y9tvcsbj
+   - Download & unzip our disk image: https://tinyurl.com/y9tvcsbj
 - Download & install ssh client (mac & linux have this usually installed), for windows:
   https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
 - When following after the workshop at Pycon UK, see the guide at:
@@ -17,15 +17,17 @@ Home instructions
 Session 1 - 90m
 ---------------
 
-1. Introduction to speakers
+1. Introduction to speaker
 
-2. Learning objectives
+2. After this class we hope you will be able to:
     * Demonstrate Kubernetes to your colleagues.
-    * Deploy a web application on Kubernetes.
+    * Deploy a web application to Kubernetes.
     * Manage your deployment e.g. scaling up and down, rolling updates and rollbacks. 
     * Deploy multiple services on Kubernetes.
-    * Describe the Kubernetes API to your colleagues.
+    * Describe the Kubernetes API.
     * Demonstrate using kubectl to interact with the Kubernetes API.
+
+   Time limitations may mean you have to achieve some objectives after class.
 
 3. Installation
     * Laptop requirements:
