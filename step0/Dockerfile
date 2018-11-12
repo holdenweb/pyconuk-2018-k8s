@@ -1,4 +1,4 @@
-FROM python
+FROM python:alpine
 RUN pip install flask
 ADD hello.py /
 ENV FLASK_APP=/hello.py
